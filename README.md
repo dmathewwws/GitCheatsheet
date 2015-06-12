@@ -8,7 +8,7 @@
 goes back to stash, watch for conflicts if you continue to work on the branch without applying the stash back on and then try to apply stash
 #####>> git stash apply stash@{2}
 will go back to stash index 2
-#####Can reapply to another branch, read up for rules and conflicts
+*#####Can reapply to another branch, read up for rules and conflicts
 http://git-scm.com/book/en/v1/Git-Tools-Stashing
 ####>> git stash save "your message here"
 ####>> git stash drop stashid
