@@ -2,7 +2,7 @@
 
 ##Going beyond push, pull and commit, tools for avoiding file and storyboard conflicts when working with iOS/XCode
 ###>> git stash
-To change branches without having to make a commit
+  To change branches without having to make a commit
 ####>> git stash list
 ####>> git stash apply
 goes back to stash, watch for conflicts if you continue to work on the branch without applying the stash back on and then try to apply stash
