@@ -1,6 +1,7 @@
 #GIT
 
 ##Going beyond push, pull and commit, tools for avoiding file and storyboard conflicts when working with iOS/XCode
+for a formatted version to make it easier to read visit: https://workflowy.com/s/lY27LibSRg
 ###>> git stash
   To change branches without having to make a commit
 ####>> git stash list
