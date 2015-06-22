@@ -47,7 +47,9 @@ shows the log of commits
 shows all commits and merges, good way to find unmerged commits or visualize your branch history
 ####>> git cherry
 tells us which commits are not in the current branch
-###Dealing With Potential Conflicts
+###Dealing With Potential Conflicts#
+####>> git diff filename
+this will show the changes to your file in Terminal
 ####>> git checkout filename
 this allows you to commit without including the file, the changes in the file are reset, if you have a filename the same as a branch name use >> git checkout -- filename instead
 ####>> git update-index --assume-unchanged filename
